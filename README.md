@@ -56,4 +56,4 @@ What will we discuss:
 * How we are embedding tool support into online notebooks for rapid assessment of
   design choices and performance issues.
   
-See mdpi.com/2073-431X/11/3/45 for a recent paper on ΔQSD.
+See https://mdpi.com/2073-431X/11/3/45 for a recent paper on ΔQSD.
