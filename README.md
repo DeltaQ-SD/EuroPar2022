@@ -1,5 +1,5 @@
-# EuroPar2022
-A 3 hour tutorial to be presented at Euro Par 2022 in Glasgow
+# Euro-Par 2022
+A 3 hour tutorial to be presented at Euro-Par 2022 in Glasgow
 
 
 ## Introduction to ∆Q-SD - a performance centric design framework
@@ -27,30 +27,30 @@ standardisation and development effort as part of their QED programme.
 In particular it:
 * Treats performance as first class citizen
   * Is outcome-centric, in particular concerns itself with the timeliness (and
-    probabilty of success) of an activity of interest
-* Takes an approach that works for the whole system developmenent lifecycle -
-  from validating intial goals to in-life service assurance, and the points
+    probability of success) of an activity of interest
+* Takes an approach that works for the whole system development lifecycle -
+  from validating initial goals to in-life service assurance, and the points
   between.
 * Permits top-down and bottom-up (or a mixture) design approaches. i.e
   * Top down: Can this “outcome” be met as the system is refined?
   * Bottom up: Given these design constraints (e.g. existing system) what will
     the performance be for this desired outcome?
-  * Comparision: Is system/component A ‘better’ than system/component B (for given collection of outcomes).
+  * Comparison: Is system/component A ‘better’ than system/component B (for given collection of outcomes).
 * Can formulate both system-centric and user-centric “experience” questions:
   * system-centric: How efficiently will the final system use this (expensive) resource?
   * user-centric:  What is the likely distribution of response times be for the set of users?
-  * resilence-centric: How sensistive to operational conditions is outcome X?
+  * resilience-centric: How sensitive to operational conditions is outcome X?
 
 Where has it been used:
 * Service assurance and strategic planning of national broadband deployments.
-* Validating potential effectiveness of safety-of-life distributed systems in adversarial enviroments.
+* Validating potential effectiveness of safety-of-life distributed systems in adversarial environments.
 * Design, development and deployment of the largest proof-of-stake based ledger
   technology where assuring timeliness is a key security property.
 
 What will we discuss:
 * How improper random variables can capture the key attribute of ‘quality
   attenuation’ - a _single_ measure of timeliness and probability of success.
-* How convolution, probablistic choice combined with first and last to finish
+* How convolution, probabalistic choice combined with first and last to finish
   appears sufficiently rich to capture real world systems.
 * Examples/case studies
 * How we are embedding tool support into online notebooks for rapid assessment of
